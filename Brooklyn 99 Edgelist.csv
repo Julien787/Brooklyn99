@@ -1,0 +1,13 @@
+from,to,weight,relationship
+Jake,Amy,3,1
+Jake,Boyle,2,2
+Amy,Holt,2,3
+Hitchcock,Skully,3,2
+Rosa,Boyle,1,2
+Rosa,Jake,2,2
+Holt,Jake,1,3
+Rosa,Amy,1,3
+Amy,Boyle,1,3
+Jake,Holt,1,3
+Rosa,Holt,1,3
+Boyle,Holt,1,3
